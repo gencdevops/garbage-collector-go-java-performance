@@ -1,0 +1,55 @@
+GO
+
+Iteration: 1
+Allocated memory: 100004 MB
+Total GC runs: 15
+Last GC pause: 23875 ns
+
+Iteration: 2
+Allocated memory: 100006 MB
+Total GC runs: 16
+Last GC pause: 43459 ns
+
+Iteration: 3
+Allocated memory: 100004 MB
+Total GC runs: 18
+Last GC pause: 169125 ns
+
+Iteration: 4
+Allocated memory: 100002 MB
+Total GC runs: 20
+Last GC pause: 308416 ns
+
+Iteration: 5
+Allocated memory: 100004 MB
+Total GC runs: 21
+Last GC pause: 297083 ns
+
+Iteration: 6
+Allocated memory: 100004 MB
+Total GC runs: 22
+Last GC pause: 261583 ns
+
+Iteration: 7
+Allocated memory: 100007 MB
+Total GC runs: 23
+Last GC pause: 299541 ns
+
+Iteration: 8
+Allocated memory: 100004 MB
+Total GC runs: 27
+Last GC pause: 268166 ns
+
+Iteration: 9
+Allocated memory: 100006 MB
+Total GC runs: 28
+Last GC pause: 246251 ns
+
+Iteration: 10
+Allocated memory: 100004 MB
+Total GC runs: 30
+Last GC pause: 321292 ns
+
+
+
+

@@ -1,0 +1,27 @@
+~/Documents/user/projects/gc-go-java
+java -XX:StartFlightRecording=filename=gc.jfr -XX:+UseZGC ZGCDemo
+[0.221s][info][jfr,startup] Started recording 1. No limit specified, using maxsize=250MB as default.
+[0.221s][info][jfr,startup]
+[0.221s][info][jfr,startup] Use jcmd 69446 JFR.dump name=1 to copy recording data to file.
+Starting ZGC Demo...
+Iteration: 1
+Allocated memory: 330 MB
+Iteration: 2
+Allocated memory: 2408 MB
+Iteration: 3
+Allocated memory: 4488 MB
+Iteration: 4
+Allocated memory: 4840 MB
+Iteration: 5
+Allocated memory: 2952 MB
+Iteration: 6
+Allocated memory: 3816 MB
+Iteration: 7
+Allocated memory: 3528 MB
+Iteration: 8
+Allocated memory: 2600 MB
+Iteration: 9
+Allocated memory: 3752 MB
+Iteration: 10
+Allocated memory: 3944 MB
+ZGC Demo Completed
